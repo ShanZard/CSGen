@@ -49,7 +49,7 @@ The framework supports multiple structural conditions:
 
 </p>
 
-The comparison includes training-free models such as **FLUX, Qwen, and SD3.5**, fine-tuned variants including **SD3.5 + LoRA** and **SD3.5 + ControlNet**, and our **CSGen**. The generated results show that CSGen better preserves fine branches and structural connectivity. :contentReference[oaicite:1]{index=1}
+The comparison includes training-free models such as **FLUX, Qwen, and SD3.5**, fine-tuned variants including **SD3.5 + LoRA** and **SD3.5 + ControlNet**, and our **CSGen**. The generated results show that CSGen better preserves fine branches and structural connectivity. 
 
 ---
 
