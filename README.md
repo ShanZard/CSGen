@@ -174,12 +174,18 @@ CSGen/
 If you find CSGen useful for your research, please cite:
 
 ```bibtex
-@inproceedings{shan2026csgen,
-  title     = {CSGen: A Multi-Domain Curvilinear Structure Generation Model via Hierarchical Multimodal Diffusion},
-  author    = {Shan, Zhe and Yang, Ziming and Zhou, Lei and Zhang, Wenwen and Lin, Cong and Xie, Xia},
-  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
-  year      = {2026},
-  doi       = {10.1145/3767308.3835990}
+@inproceedings{10.1145/3767308.3835990,
+author = {Shan, Zhe and Yang, Ziming and Zhou, Lei and Zhang, Wenwen and Lin, Cong and Xie, Xia},
+title = {CSGen: A Multi-Domain Curvilinear Structure Generation Model via Hierarchical Multimodal Diffusion},
+year = {2026},
+isbn = {9798400722134},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3767308.3835990},
+doi = {10.1145/3767308.3835990},
+booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+pages = {8556–8565},
+numpages = {10},
+series = {MM '26}
 }
 ```
 
