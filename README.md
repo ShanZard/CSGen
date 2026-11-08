@@ -7,7 +7,7 @@
 **ACM Multimedia 2026**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.04655-b31b1b.svg)](https://arxiv.org/abs/2608.04655)
-[![ACM](https://img.shields.io/badge/ACM-MM%202026-blue.svg)](https://doi.org/10.1145/3767308.3835990)
+[![ACM](https://img.shields.io/badge/ACM-MM%202026-blue.svg)](https://dl.acm.org/doi/10.1145/3767308.3835990)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-CSGen-yellow.svg)](https://huggingface.co/datasets/Imoooooo/CSGen)
 
 </div>
